@@ -1,5 +1,5 @@
 # Contributable Pokedex Frontend
-This is the frontend for my contributable pokedex app, which can be found over here: https://github.com/ae4sri/contributable-pokedex.
+This is the frontend for my contributable pokedex app, which can be found over here: https://github.com/a7rie/contributable-pokedex.
 
 ## Description
 
