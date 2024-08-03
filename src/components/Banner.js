@@ -39,7 +39,7 @@ export const Banner = () => {
               A contributable, searchable Pokédex. <br />
                By <Link 
                   target="_blank"
-                  href="https://github.com/ae4sri"><Github /> Amin Elnasri</Link>
+                  href="https://github.com/a7rie"><Github /> Amin Elnasri</Link>
             </Typography>
           </Container>
         </Box>
